@@ -110,7 +110,6 @@ Commands are stored in `browser.storage.local` under the key `snCommands`. You c
 | `tabs` | Find open ServiceNow tabs to run commands on |
 | `storage` | Save commands and theme preference locally |
 | `*://*.service-now.com/*` | Inject the palette on ServiceNow instances |
-| `*://*.mercedes-benz.com/*` | Inject the palette on Mercedes-Benz ServiceNow instances |
 
 ---
 
