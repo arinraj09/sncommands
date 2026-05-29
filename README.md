@@ -20,9 +20,6 @@ A Firefox browser extension that adds a customisable backslash command palette t
 
 ## Installation
 
-### From Mozilla Add-ons (recommended)
-Install directly from [addons.mozilla.org](#) *(link to your listing)*.
-
 ### Manual / Developer install
 1. Download the latest `.xpi` from [Releases](../../releases).
 2. In Firefox, go to `about:addons` → click the ⚙️ gear → **Install Add-on From File…**
